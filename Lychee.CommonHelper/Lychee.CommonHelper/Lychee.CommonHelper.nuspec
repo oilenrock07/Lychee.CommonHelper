@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Lychee.CommonHelper</id>
+    <version>1.0.0</version>
+    <title>Lychee.CommonHelper</title>
+    <authors>Cornelio Cawicaan Jr.</authors>
+    <owners>Cornelio Cawicaan Jr.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Common Extensions and helper for Lychee Projects. This shouldn't have any dependencies to any other projects</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Lychee Common Helper</tags>
+  </metadata>
+  <files>
+    <file src="bin\debug\Lychee.CommonHelper.dll" target="lib\net40" />
+  </files>
+</package>

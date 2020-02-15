@@ -1,0 +1,6 @@
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\bin\Debug\Lychee.CommonHelper.dll
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\bin\Debug\Lychee.CommonHelper.pdb
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\obj\Debug\Lychee.CommonHelper.csprojAssemblyReference.cache
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\obj\Debug\Lychee.CommonHelper.csproj.CoreCompileInputs.cache
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\obj\Debug\Lychee.CommonHelper.dll
+C:\Cawi\DEV\Lychee\Lychee.CommonHelper\Lychee.CommonHelper\Lychee.CommonHelper\obj\Debug\Lychee.CommonHelper.pdb
